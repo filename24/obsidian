@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dafc8c46f14d7088",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +149,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create new loom": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -146,7 +159,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5fff584cfa9197d6",
+  "active": "dafc8c46f14d7088",
   "lastOpenFiles": [
     "Өглөөний мэндлэх ээлжㅣ9B (Archived) 5b3d669b1a2d4b088b623a57478516f2_all.csv",
     "Өглөөний мэндлэх ээлжㅣ9B (Archived) 5b3d669b1a2d4b088b623a57478516f2.csv",

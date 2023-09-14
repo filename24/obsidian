@@ -6,10 +6,9 @@
 ### If clanse
 - 조건적 문법이다
 - Present simple 문법을 사용한다
+```diff
++ S + 
+```
 ### Main chause
 - 미래에 관련한 문법이다
 - Future simple 문법을 사용한다
-
-```diff
-
-```

@@ -1,4 +1,11 @@
 [
   "obsidian-git",
-  "notion-like-tables"
+  "notion-like-tables",
+  "obsidian-account-linker",
+  "obsidian-markdown-file-suffix",
+  "obsidian-auto-link-title",
+  "calendar",
+  "obsidian-excel-to-markdown-table",
+  "obsidian-icon-folder",
+  "obsidian-tasks-plugin"
 ]

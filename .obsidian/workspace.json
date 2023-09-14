@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.mdx"
+                "file": "Untitled.loom"
               }
             }
           },
@@ -166,10 +164,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2007efd8c3d7e766",
+  "active": "5fff584cfa9197d6",
   "lastOpenFiles": [
-    "Classes/Physics/Readme.md",
     "Readme.mdx",
+    "Untitled.loom",
+    "Classes/Physics/Readme.md",
     "Classes/Math/Readme.md",
     "Classes/Chemistry/Readme.md",
     "Classes/English/Readme.md",

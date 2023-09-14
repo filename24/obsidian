@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Physics/Readme.md",
+                "file": "Readme.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Physics/Readme.md",
+                "file": "Readme.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Physics/Readme.md",
+                "file": "Readme.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Physics/Readme.md"
+                "file": "Readme.mdx"
               }
             }
           },
@@ -166,10 +166,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5fff584cfa9197d6",
+  "active": "2007efd8c3d7e766",
   "lastOpenFiles": [
-    "Readme.mdx",
     "Classes/Physics/Readme.md",
+    "Readme.mdx",
     "Classes/Math/Readme.md",
     "Classes/Chemistry/Readme.md",
     "Classes/English/Readme.md",

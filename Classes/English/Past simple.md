@@ -22,3 +22,7 @@ Past simple 는 Verb 를 쓸때 2가지 방법을 쓴다
 > - speak => spoke
 > - go => went
 
+
+### Example
+-  I want to the beach last Sunday
+-  I bougth a new car yesterday

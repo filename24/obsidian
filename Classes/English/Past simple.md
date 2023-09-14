@@ -26,3 +26,6 @@ Past simple 는 Verb 를 쓸때 2가지 방법을 쓴다
 ### Example
 -  I want to the beach last Sunday
 -  I bougth a new car yesterday
+-  I helped my mother yesterday
+-  I did not help my mother
+-  Did you help your mother yesterday?

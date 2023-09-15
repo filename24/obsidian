@@ -11,4 +11,4 @@
 - She said "Im living in Japan"
   - She said she was living in Japan
 - John said "i an very busy now"
-  - John
+  - John said that he was very busy that day

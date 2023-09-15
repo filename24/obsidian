@@ -12,3 +12,9 @@
 ### Main chause
 - 미래에 관련한 문법이다
 - Future simple 문법을 사용한다
+![[Future simple#^5dd589]]
+
+```diff
++ He, She, It + V(es, s) + Obj
++ I, You, We, They + V(default)
+```

@@ -7,4 +7,8 @@
 
 ## Example
 - She said "The firefighters goes with their coworkers"
-
+  - She said the firefighters went with coworkers
+- She said "Im living in Japan"
+  - She said she was living in Japan
+- John said "i an very busy now"
+  - John

@@ -19,8 +19,17 @@ flowchart LR
 
 	Who --> person
 	Which --> object & animal
+	That --> person & object
 	Whose --> pp
 	Whom --> me & them
 	When --> te
 	Where --> location & place
+```
+
+# Non defining relative clauses
+### Example
+- They are the people
+- The people helped me
+```mermaid
+
 ```

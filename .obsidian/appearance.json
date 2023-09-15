@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Pretendard Std,Inter",
+  "textFontFamily": "Pretendard Std,Inter",
+  "monospaceFontFamily": "Pretendard Std,Inter"
 }

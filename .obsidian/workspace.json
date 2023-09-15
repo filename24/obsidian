@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/English/Past passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/English/Past passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Classes/English/Past passive.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +163,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2007efd8c3d7e766",
+  "active": "dafc8c46f14d7088",
   "lastOpenFiles": [
+    "Classes/English/Past passive.md",
     "Pasted image 20230915230913.png",
     "Classes/English/Present passive.md",
-    "Classes/English/Past passive.md",
     "Classes/English/Present perfect.md",
     "Classes/English/Present continous for future.md",
     "Classes/English/Future simple.md",

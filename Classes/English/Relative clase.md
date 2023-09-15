@@ -26,7 +26,7 @@ flowchart LR
 	Where --> location & place
 ```
 
-# Non defining relative clauses
+# Defining relative clauses
 ### Example
 ```mermaid
 flowchart LR
@@ -37,3 +37,7 @@ flowchart LR
 	1 & 2 --> output
 ```
 
+# Non defining relative clauses
+### Example
+- An astrich cannot fly
+	- An astrich is a bird which cannot fly

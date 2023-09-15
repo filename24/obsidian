@@ -2,7 +2,9 @@
 기본적으로 아래와같이 구성된다
 
 > If clanse, Main chause
-
+```diff
++ If + S + V(es) + Obj, S + V + Obj
+```
 ### If clanse
 - 조건적 문법이다
 - Present simple 문법을 사용한다
@@ -18,3 +20,8 @@
 + He, She, It + V(es, s) + Obj
 + I, You, We, They + V(default)
 ```
+
+## Example
+- If go out tonight, I will go to the cinema
+- If you get back late, I will be angry
+- If we dont see cach other tomorrow, we will see each other next week

@@ -17,9 +17,10 @@ flowchart LR
 	location
 	place
 
-	who --> person
-	which --> object & person
-	whose --> pp
-	
-
+	Who --> person
+	Which --> object & animal
+	Whose --> pp
+	Whom --> me & them
+	When --> te
+	Where --> location & place
 ```

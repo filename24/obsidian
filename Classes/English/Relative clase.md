@@ -28,8 +28,12 @@ flowchart LR
 
 # Non defining relative clauses
 ### Example
-- They are the people
-- The people helped me
 ```mermaid
+flowchart LR
+	1["They are the people"]
+	2["The people helped me"]
+	output["They are the people who helped me"]
 
+	1 & 2 --> output
 ```
+

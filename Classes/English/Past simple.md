@@ -4,6 +4,8 @@
 ? Did + S + V + Obj
 ```
 
+^a28560
+
 Past simple 는 Verb 를 쓸때 2가지 방법을 쓴다
 - Regular (V + ed) - 규칙
 - Irregular - 비규칙

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/English/Past passive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dafc8c46f14d7088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Chemistry/Element numbers.md",
+                "file": "Classes/Chemistry/Elements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Chemistry/Element numbers.md",
+                "file": "Classes/Chemistry/Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Chemistry/Element numbers.md",
+                "file": "Classes/Chemistry/Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Chemistry/Element numbers.md"
+                "file": "Classes/Chemistry/Elements.md"
               }
             }
           },
@@ -169,16 +156,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dafc8c46f14d7088",
+  "active": "2007efd8c3d7e766",
   "lastOpenFiles": [
-    "Classes/English/Conditonal 1.md",
-    "Classes/Chemistry/Element numbers.md",
     "Classes/English/Past passive.md",
+    "Classes/English/Future simple.md",
+    "Classes/Chemistry/Elements.md",
+    "Classes/English/Conditonal 1.md",
     "Pasted image 20230915230913.png",
     "Classes/English/Present passive.md",
     "Classes/English/Present perfect.md",
     "Classes/English/Present continous for future.md",
-    "Classes/English/Future simple.md",
     "Classes/English/Relative clase.md",
     "Classes/English/Present simple.md",
     "Classes/English/Past simple.md",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff89870dd4a34c3a",
+        "id": "4cd08f52c134903f",
         "type": "tabs",
         "children": [
           {
-            "id": "2007efd8c3d7e766",
+            "id": "c4e9dd9c5953ab6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Classes/Math/Algebraic Formula.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Classes/Math/Algebraic Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Classes/Math/Algebraic Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Classes/Math/Algebraic Formula.md"
               }
             }
           },
@@ -156,11 +156,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2007efd8c3d7e766",
+  "active": "c4e9dd9c5953ab6e",
   "lastOpenFiles": [
+    "assets/Algaebraic-Formula-Info.mp4",
+    "Classes/Math/Algebraic Formula.md",
+    "assets/TeRvB7_P9gYGhvBgHFV8FZ19Fty2cD1awmY4lI9VA2BY2hT1Zg3NO4yGXvwfTLa72pIer7Fi128iQz7RGnPAQA.mp4",
+    "assets",
+    "Readme.md",
     "Classes/Chemistry/Elements.md",
     "Readme.mdx",
-    "Readme.md",
     "Pasted image 20230915230913.png",
     "Classes/English/Past passive.md",
     "Classes/English/Future simple.md",
@@ -183,9 +187,6 @@
     "Classes/Chemistry/Readme.mdx",
     "학년/9학년/3반/Урлагийн их наадмын мэдүүлэг (9в).mdx",
     "Untitled.loom",
-    "Classes/Physics/Readme.mdx",
-    "Classes/Math/Readme.mdx",
-    "migration.mjs",
     "Classes/Physics/Readme.md",
     "Classes/Math/Readme.md",
     "Classes/Chemistry/Readme.md",

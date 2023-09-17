@@ -579,4 +579,5 @@
 - 125번 운비펜튬 (Unbipentium)
     
 - 126번 [운비헥슘](https://namu.wiki/w/8%EC%A3%BC%EA%B8%B0%20%EC%9B%90%EC%86%8C#s-3.7 "8주기 원소") (Unbihexium)
-## U
+## Useful links
+- [주기율표 - Ptable - 속성](https://ptable.com/)

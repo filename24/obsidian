@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Chemistry/Elements.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Chemistry/Elements.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Chemistry/Elements.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Chemistry/Elements.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -158,11 +158,13 @@
   },
   "active": "2007efd8c3d7e766",
   "lastOpenFiles": [
+    "Classes/Chemistry/Elements.md",
+    "Readme.mdx",
+    "Readme.md",
+    "Pasted image 20230915230913.png",
     "Classes/English/Past passive.md",
     "Classes/English/Future simple.md",
-    "Classes/Chemistry/Elements.md",
     "Classes/English/Conditonal 1.md",
-    "Pasted image 20230915230913.png",
     "Classes/English/Present passive.md",
     "Classes/English/Present perfect.md",
     "Classes/English/Present continous for future.md",
@@ -173,7 +175,6 @@
     "Classes/English/Past continous.md",
     "Classes/English/Reported speach.md",
     "Classes/English/Past perfect.md",
-    "Readme.mdx",
     "Classes/English/Readme.mdx",
     "Classes/English/무제 폴더",
     "Pasted image 20230914223001.png",
@@ -189,7 +190,6 @@
     "Classes/Math/Readme.md",
     "Classes/Chemistry/Readme.md",
     "Classes/English/Readme.md",
-    "Readme.md",
     "무제 파일.md",
     "학년/10학년/1반/System login names.md",
     "Pasted image 20230914195515.png",

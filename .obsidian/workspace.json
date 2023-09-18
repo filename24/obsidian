@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Math/Algebraic Formula.md",
+                "file": "Classes/Math/수행평가/다중우주.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Math/Algebraic Formula.md",
+                "file": "Classes/Math/수행평가/다중우주.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Math/Algebraic Formula.md",
+                "file": "Classes/Math/수행평가/다중우주.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Math/Algebraic Formula.md"
+                "file": "Classes/Math/수행평가/다중우주.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "c4e9dd9c5953ab6e",
   "lastOpenFiles": [
-    "assets/Algaebraic-Formula-Info.mp4",
     "Classes/Math/Algebraic Formula.md",
+    "Classes/Math/수행평가/다중우주.md",
+    "Classes/Math/수행평가",
+    "assets/Algaebraic-Formula-Info.mp4",
     "assets/TeRvB7_P9gYGhvBgHFV8FZ19Fty2cD1awmY4lI9VA2BY2hT1Zg3NO4yGXvwfTLa72pIer7Fi128iQz7RGnPAQA.mp4",
     "assets",
     "Readme.md",
@@ -186,7 +188,6 @@
     "학년/10학년/1반/System login names.mdx",
     "Classes/Chemistry/Readme.mdx",
     "학년/9학년/3반/Урлагийн их наадмын мэдүүлэг (9в).mdx",
-    "Untitled.loom",
     "Classes/Physics/Readme.md",
     "Classes/Math/Readme.md",
     "Classes/Chemistry/Readme.md",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b55914658391c020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Math/Trigonometric Ratios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Math/수행평가/다중우주.md",
+                "file": "Classes/Math/Trigonometric Ratios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Math/수행평가/다중우주.md",
+                "file": "Classes/Math/Trigonometric Ratios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Math/수행평가/다중우주.md"
+                "file": "Classes/Math/Trigonometric Ratios.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c4e9dd9c5953ab6e",
+  "active": "b55914658391c020",
   "lastOpenFiles": [
     "Classes/Math/Algebraic Formula.md",
+    "Classes/Math/Trigonometric Ratios.md",
     "Classes/Math/수행평가/다중우주.md",
     "Classes/Math/수행평가",
     "assets/Algaebraic-Formula-Info.mp4",
@@ -196,7 +210,6 @@
     "학년/10학년/1반/System login names.md",
     "Pasted image 20230914195515.png",
     "학년/9학년/3반/“Эгшиглэхгүй” Урлагийн их наадмын мэдүүлэг (9в).md",
-    "3de576e7-3277-466a-b46b-60de18c554e0_Export-9edadb74-dec4-4117-ad75-6abe57e9fbe5/“Эгшиглэхгүй” Урлагийн их наадмын мэдүүлэг (9в) f38743d0767846de8eb3bfe944259f12.md",
-    "“Эгшиглэхгүй” Урлагийн их наадмын мэдүүлэг (9в) f38743d0767846de8eb3bfe944259f12.md"
+    "3de576e7-3277-466a-b46b-60de18c554e0_Export-9edadb74-dec4-4117-ad75-6abe57e9fbe5/“Эгшиглэхгүй” Урлагийн их наадмын мэдүүлэг (9в) f38743d0767846de8eb3bfe944259f12.md"
   ]
 }
